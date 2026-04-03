@@ -1,6 +1,6 @@
-# AI Reviewer Results
+# Results - AI Reviewer 
 
-This folder contains GRAIL AI peer review scores for all papers in the FA0001 case study. Each paper — the FARS baseline and all four AI-generated papers — was independently reviewed by the GRAIL AI peer reviewer using the same evaluation criteria applied at NeurIPS and ICML.
+This folder contains GRAIL AI peer review scores for all papers in the FA0001 case study. Each paper; the FARS baseline and all four AI-generated papers were independently reviewed by the GRAIL AI peer reviewer using the same evaluation criteria applied at NeurIPS and ICML.
 
 For background on FA0001 and how the papers were generated, see the [main README](../README.md) or visit [Analemma AI](https://analemma.ai/fars/).
 
