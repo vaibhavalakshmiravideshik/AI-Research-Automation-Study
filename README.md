@@ -18,7 +18,7 @@ Each FARS proposal covers:
 
 FARS proposals serve as a **gold-standard benchmark** — they represent the target quality level that automated scientific discovery frameworks are evaluated against.
 
-📄 [Browse all FARS proposals at Analemma AI](https://analemma.ai/fars/)
+[Browse all FARS proposals at Analemma AI](https://analemma.ai/fars/)
 
 ## This Case Study
 
