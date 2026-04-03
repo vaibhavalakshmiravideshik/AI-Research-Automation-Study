@@ -1,4 +1,4 @@
-# AI-generated Research meets AI Peer Review: A Case Study
+# AI-generated research meets AI peer review: A case study
 
 > Benchmarking automated scientific discovery frameworks against a gold-standard AI-generated research baseline, evaluated via the GRAIL AI peer reviewer.
 
