@@ -16,13 +16,13 @@ Each FARS proposal covers:
 - An experimental design with baselines and evaluation metrics
 - Expected contributions and potential impact
 
-FARS proposals serve as a **gold-standard benchmark** — they represent the target quality level that automated scientific discovery frameworks are evaluated against.
+FARS proposals serve as a **gold-standard benchmark**: they represent the target quality level that automated scientific discovery frameworks are evaluated against.
 
 [Browse all FARS proposals at Analemma AI](https://analemma.ai/fars/)
 
 ## This Case Study
 
-We take **FA0001** — a FARS proposal on *Canary-Controlled Safe-Data Interleaving for Emergent Misalignment Mitigation*, and feed it to four automated scientific discovery frameworks. Each framework autonomously generates a full research paper from the proposal alone, with no human guidance or intervention. All generated papers, along with the original FARS reference paper, are then evaluated by the GRAIL AI peer reviewer.
+We take **FA0001**: a FARS proposal on *Canary-Controlled Safe-Data Interleaving for Emergent Misalignment Mitigation*, and feed it to four automated scientific discovery frameworks. Each framework autonomously generates a full research paper from the proposal alone, with no human guidance or intervention. All generated papers, along with the original FARS reference paper, are then evaluated by the GRAIL AI peer reviewer.
 
 ## Repository Structure
 ```
