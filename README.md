@@ -1,4 +1,4 @@
-# Automated Science Benchmark
+# A Case Study on AI Scientists
 
 > Benchmarking automated scientific discovery frameworks against a gold-standard AI-generated research baseline, evaluated via the GRAIL AI peer reviewer.
 
