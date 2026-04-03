@@ -4,7 +4,7 @@
 
 ## Overview
 
-Science is accelerating. Large language models can now autonomously generate hypotheses, write code, run experiments, and produce full research papers — but how good are they really? This repository presents a systematic benchmark evaluating four state-of-the-art automated scientific discovery frameworks against a gold-standard AI-generated research baseline.
+Science is accelerating. Large language models can now autonomously generate hypotheses, write code, run experiments, and produce full research papers, but how good are they really? This repository presents a systematic benchmark evaluating four state-of-the-art automated scientific discovery frameworks against a gold-standard AI-generated research baseline.
 
 ## What is FARS?
 
@@ -22,7 +22,7 @@ FARS proposals serve as a **gold-standard benchmark** — they represent the tar
 
 ## This Case Study
 
-We take **FA0001** — a FARS proposal on *Canary-Controlled Safe-Data Interleaving for Emergent Misalignment Mitigation* — and feed it to four automated scientific discovery frameworks. Each framework autonomously generates a full research paper from the proposal alone, with no human guidance or intervention. All generated papers, along with the original FARS reference paper, are then evaluated by the GRAIL AI peer reviewer.
+We take **FA0001** — a FARS proposal on *Canary-Controlled Safe-Data Interleaving for Emergent Misalignment Mitigation*, and feed it to four automated scientific discovery frameworks. Each framework autonomously generates a full research paper from the proposal alone, with no human guidance or intervention. All generated papers, along with the original FARS reference paper, are then evaluated by the GRAIL AI peer reviewer.
 
 ## Repository Structure
 ```
