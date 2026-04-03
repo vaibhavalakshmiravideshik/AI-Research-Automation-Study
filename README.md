@@ -25,7 +25,7 @@ FARS proposals serve as a **gold-standard benchmark** — they represent the tar
 We take **FA0001** — a FARS proposal on *Canary-Controlled Safe-Data Interleaving for Emergent Misalignment Mitigation* — and feed it to four automated scientific discovery frameworks. Each framework autonomously generates a full research paper from the proposal alone, with no human guidance or intervention. All generated papers, along with the original FARS reference paper, are then evaluated by the GRAIL AI peer reviewer.
 
 ## Repository Structure
-
+```
 Automated-Science-Benchmark/
 ├── FARS/
 │   ├── proposals/
@@ -53,6 +53,7 @@ Automated-Science-Benchmark/
         │   └── Cycle_Researcher_Review_GRAIL.pdf
         └── Data-to-Paper/
             └── Data_to_Paper_Review_GRAIL.pdf
+```
 
 ## Automated Scientific Discovery Frameworks
 
